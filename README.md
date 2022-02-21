@@ -1,3 +1,3 @@
 # SistemaLogin
 
-Sistema de Login realizado com C#, feito para aperfeicoamento de conhecimento
+Sistema de Login realizado com C#, feito para aperfeiçoamento de conhecimento
